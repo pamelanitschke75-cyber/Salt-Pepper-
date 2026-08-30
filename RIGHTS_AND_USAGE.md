@@ -44,13 +44,15 @@ Insbesondere werden keine Eigentums-, Besitz-, Obhuts-, Zugriffs-, Verfügungs-,
 
 Die persönliche, tatsächliche und rechtliche Zuordnung der lebenden Tiere wird durch dieses Projekt in keiner Weise verändert.
 
-## 6. Ausschluss der Nutzung für Menschen
+## 6. Absolute Schutzgrenze: Menschen niemals kopieren
 
-Die Nutzungserlaubnis des Projekts gilt ausschließlich für **tierbezogene Anwendungen**.
+**Salt & Pepper ist ausschließlich ein Tierprojekt.**
 
-Die unter **LICENSE.md** freigegebenen Projektbestandteile dürfen nicht verwendet werden, um menschliche Identitäten, persönliche menschliche Klone, digitale Abbilder, Holo-Abbilder oder vergleichbare personenbezogene Systeme zu erstellen oder nachzubilden.
+Die unter **LICENSE.md** freigegebenen Bestandteile dürfen niemals dazu verwendet werden, einen Menschen zu kopieren, zu klonen, nachzubilden oder als digitales, KI-basiertes, virtuelles, synthetisches oder Holo-Abbild zu reproduzieren.
 
-Damit wird keine Aussage über unabhängige Rechte oder gesetzlich erlaubte Handlungen außerhalb der von Pamela Nitschke und Stefanie Hörath lizenzierbaren Projektbestandteile getroffen.
+Für eine solche Nutzung am Menschen wird durch dieses Projekt **keinerlei Erlaubnis** erteilt. Diese Grenze gilt innerhalb der Salt-&-Pepper-Lizenz ohne Ausnahme.
+
+Diese Regel bezieht sich auf die von Pamela Nitschke und Stefanie Hörath lizenzierbaren Bestandteile dieses Projekts und beansprucht keine Kontrolle über unabhängig entwickelte Technologien oder gesetzliche Rechte außerhalb von **Salt & Pepper**.
 
 ## 7. Inhalte und Rechte Dritter
 
@@ -66,6 +68,8 @@ Andere dürfen die in **[LICENSE.md](LICENSE.md)** ausdrücklich freigegebenen t
 
 Eine solche Nutzung verändert weder die Zuordnung des Originalprojekts noch vermittelt sie Rechte an Salt oder Pepper („Peps“) als lebenden Tieren.
 
+**Jede Nutzung zur Kopie oder Nachbildung eines Menschen ist ausgeschlossen.**
+
 Für Nutzungen außerhalb der in LICENSE.md beschriebenen Erlaubnis soll vorab die erforderliche Zustimmung eingeholt werden.
 
 ## 9. Hinweis
@@ -79,6 +83,6 @@ Pamela Nitschke & Stefanie Hörath
 
 **Original bleibt Original.  
 Keine Ansprüche auf die lebenden Katzen.  
-Nutzung für Menschen ausgeschlossen.**
+Menschen kopieren oder nachbilden: niemals.**
 
 **Miteinander. Füreinander.**
