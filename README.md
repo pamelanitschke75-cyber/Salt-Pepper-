@@ -130,6 +130,8 @@ verhaltensbiologische oder wissenschaftliche Fachberatung.
 Bei konkreten Entscheidungen sind die jeweils geltenden gesetzlichen
 Bestimmungen sowie geeignete fachliche Erkenntnisse zu berücksichtigen.
 
+Weitere Hinweise zu Rechten und Nutzung: **[RIGHTS_AND_USAGE.md](RIGHTS_AND_USAGE.md)**
+
 ---
 
 # Salt & Pepper 🐾🐱
