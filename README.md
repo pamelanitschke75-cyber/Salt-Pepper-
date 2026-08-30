@@ -119,13 +119,27 @@ Ausbeutung von Tieren widersprechen diesen Grundsätzen.
 
 ---
 
-# Mitmachen – für andere Tierarten 🐘🦉🐢🐝
+# Mitmachen – für Tiere 🐘🦉🐢🐝🐱🐶
 
-Andere Menschen sollen die Möglichkeit haben, die allgemeinen Grundsätze und Strukturen dieses Projekts für den Schutz **anderer Tierarten** zu nutzen und weiterzuentwickeln.
+Andere Menschen sollen die Möglichkeit haben, die ausdrücklich freigegebenen Grundsätze, Strukturen und technischen Bestandteile dieses Projekts für **Tierprojekte** zu untersuchen, zu kopieren und weiterzuentwickeln.
 
-**Salt, Pepper („Peps“) und die projektspezifischen Katzen- und Hunde-Inhalte bleiben davon ausgenommen.** Die Tierarten Katze und Hund als solche werden dadurch natürlich nicht beansprucht; unabhängige eigene Projekte anderer Personen bleiben möglich.
+**Das ursprüngliche Salt-&-Pepper-Projekt bleibt das Original von Pamela Nitschke und Stefanie Hörath.** Kopien und Weiterentwicklungen müssen als solche erkennbar bleiben und dürfen nicht als das ursprüngliche Original ausgegeben werden.
+
+Die lebenden Originalkatzen **Salt** und **Pepper („Peps“)** stehen vollständig außerhalb jeder Lizenz. Mitarbeit, Kopien oder Weiterentwicklungen begründen **keinerlei Anspruch auf die Tiere selbst**.
 
 Die genauen Bedingungen stehen in unserer **[LICENSE.md](LICENSE.md)**.
+
+---
+
+# ⛔ Absolute Schutzgrenze: Menschen niemals kopieren
+
+**Salt & Pepper ist ausschließlich ein Tierprojekt.**
+
+Kein unter diesem Projekt freigegebener Bestandteil darf dazu verwendet werden, **einen Menschen zu kopieren, zu klonen oder als digitales, KI-basiertes, virtuelles, synthetisches oder Holo-Abbild nachzubilden.**
+
+**Für Menschen gibt es innerhalb der Salt-&-Pepper-Lizenz keine Ausnahme und keine Nutzungserlaubnis.**
+
+Diese Grenze gilt für die Nutzung der von Pamela Nitschke und Stefanie Hörath lizenzierbaren Bestandteile dieses Projekts.
 
 ---
 
@@ -141,7 +155,7 @@ Bei konkreten Entscheidungen sind die jeweils geltenden gesetzlichen
 Bestimmungen sowie geeignete fachliche Erkenntnisse zu berücksichtigen.
 
 Weitere Hinweise zu Rechten und Nutzung: **[RIGHTS_AND_USAGE.md](RIGHTS_AND_USAGE.md)**  
-Nutzungslizenz für andere Tierarten: **[LICENSE.md](LICENSE.md)**
+Tierwohl- und Tier-Holo-Nutzungslizenz: **[LICENSE.md](LICENSE.md)**
 
 ---
 
