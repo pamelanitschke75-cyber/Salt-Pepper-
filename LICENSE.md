@@ -1,4 +1,4 @@
-# Salt & Pepper – Tierwohl- und Tier-Holo-Nutzungslizenz 1.1
+# Salt & Pepper – Tierwohl- und Tier-Holo-Nutzungslizenz 1.2
 
 **© 2026 Pamela Nitschke & Stefanie Hörath**
 
@@ -10,7 +10,7 @@ Das Projekt **Salt & Pepper** soll Zusammenarbeit ermöglichen und dazu beitrage
 
 Soweit Pamela Nitschke und Stefanie Hörath an den betreffenden Inhalten dieses Repositorys übertragbare oder lizenzierbare Rechte besitzen, wird hierfür eine einfache, nicht ausschließliche Nutzungserlaubnis nach den folgenden Bedingungen erteilt.
 
-## 2. Kopieren, lernen und weiterentwickeln – für Tiere
+## 2. Kopieren, lernen und weiterentwickeln – ausschließlich für Tiere
 
 Die unter dieser Lizenz ausdrücklich freigegebenen Projektbestandteile dürfen für **tierbezogene Projekte** angesehen, untersucht, kopiert, technisch nachgebaut, bearbeitet und weiterentwickelt werden.
 
@@ -38,17 +38,19 @@ Insbesondere werden dadurch **keine Eigentums-, Besitz-, Obhuts-, Zugriffs-, Ver
 
 Die persönliche, tatsächliche und rechtliche Zuordnung der lebenden Tiere wird durch dieses Projekt und diese Lizenz in keiner Weise verändert.
 
-Diese Regel betrifft die **Originaltiere selbst**. Eine technische oder digitale Kopie eines freigegebenen Systems ist davon zu unterscheiden und vermittelt niemals Rechte am lebenden Tier.
+Diese Regel betrifft die **Originaltiere selbst**. Eine technische oder digitale Kopie eines freigegebenen Tier-Systems ist davon zu unterscheiden und vermittelt niemals Rechte am lebenden Tier.
 
-## 5. Niemals für Menschen
+## 5. ABSOLUTE SCHUTZGRENZE: MENSCHEN DÜRFEN NIEMALS KOPIERT WERDEN
 
-Die unter dieser Lizenz freigegebenen Inhalte und Systeme dürfen **nicht für Menschen** verwendet, angepasst oder weiterentwickelt werden.
+**Salt & Pepper ist ausschließlich ein Tierprojekt.**
 
-Dies umfasst insbesondere keine Nutzung zum Erstellen oder Nachbilden menschlicher Identitäten, persönlicher menschlicher Klone, digitaler Abbilder, Holo-Abbilder oder vergleichbarer personenbezogener Systeme auf Grundlage dieser Lizenz.
+Kein Bestandteil dieses Projekts, keine unter dieser Lizenz freigegebene Technik, kein Konzept, kein Code und keine daraus abgeleitete Tier-Holo- oder Tier-Klon-Lösung darf auf Grundlage dieser Lizenz dazu verwendet werden, **einen Menschen zu kopieren, zu klonen, nachzubilden oder als digitales, KI-basiertes, virtuelles, synthetisches oder Holo-Abbild zu reproduzieren.**
 
-**Diese Nutzungserlaubnis gilt ausschließlich für tierbezogene Anwendungen.**
+Diese Grenze gilt innerhalb der Nutzungserlaubnis von **Salt & Pepper ohne Ausnahme** – unabhängig davon, ob eine solche menschliche Nachbildung technisch möglich wäre oder von einer betroffenen Person gewünscht würde.
 
-Unabhängige Rechte oder gesetzlich erlaubte Handlungen außerhalb der von Pamela Nitschke und Stefanie Hörath lizenzierbaren Projektbestandteile werden durch diese Erklärung nicht erweitert oder eingeschränkt.
+**Für Menschen wird durch diese Lizenz keinerlei Nutzungserlaubnis erteilt.**
+
+Diese Regel beschränkt ausschließlich die Nutzung der von Pamela Nitschke und Stefanie Hörath lizenzierbaren Bestandteile des Projekts **Salt & Pepper**. Sie beansprucht keine Kontrolle über unabhängig entwickelte Technologien oder gesetzliche Rechte außerhalb dieses Projekts.
 
 ## 6. Bedingungen für Kopien und Weiterentwicklungen
 
@@ -60,7 +62,7 @@ Wer von der Nutzungserlaubnis Gebrauch macht, muss:
 4. klarstellen, dass das eigene Projekt unabhängig ist und keine offizielle Beteiligung, Partnerschaft oder Unterstützung durch Pamela Nitschke, Stefanie Hörath, ChatGPT oder OpenAI behaupten,
 5. vorhandene Urheber-, Rechte- und Lizenzhinweise für übernommene Bestandteile nicht entfernen,
 6. Rechte Dritter und die jeweils geltenden gesetzlichen Bestimmungen beachten,
-7. die Grenze aus Abschnitt 5 – **keine Nutzung für Menschen** – einhalten.
+7. die absolute Schutzgrenze aus Abschnitt 5 einhalten: **Menschen dürfen mit den unter dieser Lizenz freigegebenen Salt-&-Pepper-Bestandteilen niemals kopiert, geklont oder nachgebildet werden.**
 
 ## 7. Tierwohl-Grundsatz
 
@@ -96,8 +98,8 @@ Die Inhalte werden ohne Zusicherung einer bestimmten Eignung oder Fehlerfreiheit
 Pamela Nitschke & Stefanie Hörath  
 
 **Original bleibt Original.  
-Kopieren und weiterentwickeln – für Tiere: erlaubt.  
+Kopieren und weiterentwickeln – ausschließlich für Tiere: erlaubt.  
 Anspruch auf Salt oder Peps als lebende Tiere: niemals.  
-Nutzung für Menschen: ausgeschlossen.**
+Menschen kopieren oder nachbilden: niemals.**
 
 **Miteinander. Füreinander.**
