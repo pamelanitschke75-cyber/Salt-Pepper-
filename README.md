@@ -123,7 +123,9 @@ Ausbeutung von Tieren widersprechen diesen Grundsätzen.
 
 Andere Menschen sollen die Möglichkeit haben, die ausdrücklich freigegebenen Grundsätze, Strukturen und technischen Bestandteile dieses Projekts für **Tierprojekte** zu untersuchen, zu kopieren und weiterzuentwickeln.
 
-**Das ursprüngliche Salt-&-Pepper-Projekt bleibt das Original von Pamela Nitschke und Stefanie Hörath.** Kopien und Weiterentwicklungen müssen als solche erkennbar bleiben und dürfen nicht als das ursprüngliche Original ausgegeben werden.
+**Jede zulässige Kopie darf einen eigenen Namen bekommen und frei eigenständig gestaltet werden.** Eigene Optik, Benutzeroberflächen, Funktionen, Inhalte und Tierbezüge sind ausdrücklich möglich. Eine Kopie muss nicht **Salt & Pepper** heißen.
+
+**Das ursprüngliche Salt-&-Pepper-Projekt bleibt das Original von Pamela Nitschke und Stefanie Hörath.** Kopien und Weiterentwicklungen müssen als solche erkennbar bleiben und dürfen nicht als das ursprüngliche Original ausgegeben werden. Ein angemessener Hinweis auf den Ursprung bleibt erforderlich.
 
 Die lebenden Originalkatzen **Salt** und **Pepper („Peps“)** stehen vollständig außerhalb jeder Lizenz. Mitarbeit, Kopien oder Weiterentwicklungen begründen **keinerlei Anspruch auf die Tiere selbst**.
 
