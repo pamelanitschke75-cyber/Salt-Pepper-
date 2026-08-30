@@ -16,7 +16,7 @@ Die Nennung von ChatGPT und OpenAI beschreibt die verwendete KI-Unterstützung. 
 
 Soweit nach dem jeweils anwendbaren Recht Schutz besteht, bleiben die Rechte an den von Pamela Nitschke und Stefanie Hörath selbst geschaffenen und rechtlich schutzfähigen Inhalten vorbehalten. Dazu können insbesondere eigene Texte, Fotografien, Medien, Gestaltungen und projektspezifische Dokumentationen gehören.
 
-**Es wird mit diesem Repository keine allgemeine Open-Source- oder Open-Content-Lizenz erteilt**, sofern bei einem bestimmten Inhalt nicht ausdrücklich etwas anderes angegeben ist.
+**Es wird mit diesem Repository keine allgemeine Open-Source- oder Open-Content-Lizenz erteilt.** Eine ausdrücklich begrenzte Nutzungserlaubnis für Projekte zu anderen Tierarten ist in **[LICENSE.md](LICENSE.md)** geregelt.
 
 Die öffentliche Sichtbarkeit dieses Repositorys bedeutet daher nicht automatisch, dass sämtliche Inhalte frei kopiert, verändert, weiterverbreitet oder kommerziell genutzt werden dürfen. Gesetzlich erlaubte Nutzungen sowie Funktionen und Rechte, die sich unmittelbar aus der Nutzung der GitHub-Plattform ergeben, bleiben unberührt.
 
@@ -36,7 +36,13 @@ Die bloße Nennung eines Unternehmens, Produkts oder einer Technologie bedeutet 
 
 ## 5. Nutzung durch Dritte
 
-Wer Inhalte dieses Repositorys außerhalb gesetzlich erlaubter Nutzungen oder der von GitHub vorgesehenen Plattformfunktionen übernehmen, bearbeiten, veröffentlichen oder kommerziell verwenden möchte, soll vorab die erforderlichen Rechte klären und gegebenenfalls eine ausdrückliche Erlaubnis einholen.
+Andere dürfen die in **[LICENSE.md](LICENSE.md)** ausdrücklich freigegebenen allgemeinen, nicht personenbezogenen Projektbestandteile für eigene Projekte zu **anderen Tierarten als Katzen und Hunden** nutzen und weiterentwickeln, sofern die dort genannten Bedingungen eingehalten werden.
+
+Die projektspezifischen Inhalte rund um **Salt** und **Pepper („Peps“)** sowie ausdrücklich vorbehaltene Katzen- und Hunde-Bestandteile des Projekts bleiben von dieser Freigabe ausgenommen.
+
+Damit werden die Tierarten Katze und Hund als solche selbstverständlich nicht beansprucht. Unabhängige eigene Projekte anderer Personen zu Katzen oder Hunden bleiben möglich; nicht freigegeben sind lediglich die geschützten oder ausdrücklich vorbehaltenen Inhalte dieses konkreten Projekts.
+
+Für Nutzungen außerhalb der in LICENSE.md beschriebenen Erlaubnis soll vorab die erforderliche Zustimmung eingeholt werden.
 
 ## 6. Hinweis
 
