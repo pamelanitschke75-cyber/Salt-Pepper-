@@ -119,6 +119,16 @@ Ausbeutung von Tieren widersprechen diesen Grundsätzen.
 
 ---
 
+# Mitmachen – für andere Tierarten 🐘🦉🐢🐝
+
+Andere Menschen sollen die Möglichkeit haben, die allgemeinen Grundsätze und Strukturen dieses Projekts für den Schutz **anderer Tierarten** zu nutzen und weiterzuentwickeln.
+
+**Salt, Pepper („Peps“) und die projektspezifischen Katzen- und Hunde-Inhalte bleiben davon ausgenommen.** Die Tierarten Katze und Hund als solche werden dadurch natürlich nicht beansprucht; unabhängige eigene Projekte anderer Personen bleiben möglich.
+
+Die genauen Bedingungen stehen in unserer **[LICENSE.md](LICENSE.md)**.
+
+---
+
 # Rechtlicher und fachlicher Hinweis
 
 Dieses Dokument beschreibt die Werte, Grundsätze und Ziele des
@@ -130,7 +140,8 @@ verhaltensbiologische oder wissenschaftliche Fachberatung.
 Bei konkreten Entscheidungen sind die jeweils geltenden gesetzlichen
 Bestimmungen sowie geeignete fachliche Erkenntnisse zu berücksichtigen.
 
-Weitere Hinweise zu Rechten und Nutzung: **[RIGHTS_AND_USAGE.md](RIGHTS_AND_USAGE.md)**
+Weitere Hinweise zu Rechten und Nutzung: **[RIGHTS_AND_USAGE.md](RIGHTS_AND_USAGE.md)**  
+Nutzungslizenz für andere Tierarten: **[LICENSE.md](LICENSE.md)**
 
 ---
 
