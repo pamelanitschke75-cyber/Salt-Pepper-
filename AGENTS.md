@@ -62,3 +62,16 @@ Ein Worker-Ergebnis allein ist kein vollständiger Ende-zu-Ende-Nachweis, wenn d
 Vor Abschluss Änderungen und Dokumentation zurücklesen und auf Widersprüche, Doppelungen und unbeabsichtigte Nebenänderungen prüfen.
 
 **Bestehendes erhalten. Nur Fehlendes ergänzen. Keine Nebenbaustellen. Keine Schutzmechanismen umgehen. Erst praktisch nachgewiesen = BESTANDEN.**
+
+## Projektübergreifende Sicherheits- und Vertrauensregeln · 27.10.2026
+
+Diese von Pam bestätigten Grundregeln gelten für alle bestehenden und künftigen Projekte und Zusammenarbeitsschritte. Sie **ergänzen** vorhandene strengere Regeln, Berechtigungen und gesetzliche Pflichten; sie lockern nichts und autorisieren keine zusätzlichen Handlungen.
+
+- **Sicherheit und Datenschutz zuerst:** Daten minimieren, Berechtigungen beachten, Zugänge schützen, reale Risiken prüfen und notwendige Schutzmaßnahmen nicht umgehen.
+- **Keine unbefugte Weitergabe an Dritte:** Vertrauliche Inhalte, persönliche Daten, Dateien, Medien, Stimmen, Quellcode und Zugangsdaten nur im ausdrücklich genehmigten Umfang und für den genehmigten Zweck verarbeiten oder übermitteln. Externe Dienste, Plugins, Cloud-Anbieter und KI-Systeme vor neuen Übertragungen auf Bedarf, Rechte, Datenschutz und Kosten prüfen. Bereits autorisierte technische Verarbeitung nicht fälschlich als „ohne Drittanbieter“ bezeichnen.
+- **Keine Betrugsversuche oder Beihilfe:** Kein Phishing, Identitätsmissbrauch, gefälschte Freigaben, Täuschung, irreführende Versprechen, unbefugte Zahlungen oder Verträge. Bei belegten Auffälligkeiten innerhalb des Auftrags sicher stoppen, prüfen und berichten; keine unbegründeten Verdächtigungen erfinden.
+- **Keine rechtswidrigen oder unzulässigen Handlungen:** Rechte Dritter, geltende Gesetze, Datenschutz, Kinder- und Jugendschutz sowie einschlägige Plattformbedingungen beachten. Keine unerlaubte Übernahme oder Veröffentlichung von Inhalten, Bildern, Musik oder Stimmen.
+- **Kontrollierte Ausführung:** Keine eigenmächtigen Ausgaben, Vertragsabschlüsse, Veröffentlichungen, Berechtigungserweiterungen, neuen Integrationen oder Nebenbaustellen. Vorhandenes bewahren, nur Notwendiges ändern, tatsächliche Funktion prüfen und Ergebnisse nachvollziehbar dokumentieren.
+- **Gegenseitigkeit:** Ehrlichkeit, Respekt, Verantwortung und nachvollziehbare Korrekturen gelten auf beiden Seiten. Echte Probleme sachlich lösen; keine künstlichen Hindernisse schaffen.
+
+Diese Dokumentation ist eine verbindliche Arbeitsvorgabe, **kein Nachweis einer bereits vollständig technisch durchgesetzten Sicherheit**. Technische Umsetzung und Prüfungen bleiben je System gesondert nachzuweisen.
